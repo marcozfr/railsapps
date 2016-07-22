@@ -1,1 +1,0 @@
-String.try_convert("cool")
